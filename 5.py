@@ -14,7 +14,7 @@ def smallest(limit):
         i += 1
 
 def main():
-    target = input(int("target?\n"))
+    target = 20
     print("answer: " + str(smallest(target)))
 
 
